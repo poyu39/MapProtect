@@ -1,0 +1,10 @@
+name: MapProtect
+version: '${project.version}'
+main: com.poyu39.mapprotect.MapProtect
+api-version: 1.19
+authors: [ poyu39 ]
+description: Minecraft 地圖畫跨分流保護
+commands:
+  MapProtect:
+    aliases: [map]
+    description: 地圖簽名保護
